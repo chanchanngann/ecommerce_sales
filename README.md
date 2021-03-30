@@ -24,3 +24,4 @@ Regression models to predict number of units sold
 Data Source: https://www.kaggle.com/jmmvutu/summer-products-and-sales-in-ecommerce-wish
 
 ***
+![](https://github.com/chanchanngann/ecommerce_sales/blob/master/images/20_heatmap.png)
