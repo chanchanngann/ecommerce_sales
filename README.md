@@ -1,7 +1,8 @@
-# ecommerce_sales
-Regression models to predict number of units sold
 
-# [E-Commerce Platform (Wish) - Sales Prediction](https://github.com/chanchanngann/ecommerce_sales/tree/master)
+
+# [E-Commerce Platform (Wish) - Sales Prediction](https://github.com/chanchanngann/ecommerce_sales/blob/master/ecommerce_sales.ipynb)
+Regression models to predict number of units sold
+pls find the code and dynamic output here: https://nbviewer.jupyter.org/github/chanchanngann/ecommerce_sales/blob/master/ecommerce_sales.ipynb
 
 ### Summary
 * Part 1.Carried out univariate & bivaruate analysis to explore the dataset of the e-commerce site Wish, also to answer some inspiring questions:
